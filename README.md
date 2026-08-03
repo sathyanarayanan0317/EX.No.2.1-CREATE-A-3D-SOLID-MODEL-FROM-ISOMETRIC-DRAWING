@@ -1,7 +1,7 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 ## Date: 03.08.2026
-Name: M. Sathyanrayanan
-Registration number: 212224040300
+## Name: M. Sathyanarayanan
+## Registration number: 212224040300
 
 ## AIM
 To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
